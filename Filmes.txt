@@ -4,3 +4,4 @@ Ranking de Filmes no filmes.txt
 3. O Senhor dos Anéis
 4. Matrix
 5. Parasita
+6. Clube Da Luta
